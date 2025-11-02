@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Thủ đô của Việt Nam là gì?",
+    "options": ["Hà Nội", "TP. Hồ Chí Minh", "Đà Nẵng", "Hải Phòng", "Next"],
+    "correct": "Hà Nội"
+  },
+  {
+    "question": "2 + 2 = ?",
+    "options": ["3", "4", "5", "22", "Next"],
+    "correct": "4"
+  },
+  {
+    "question": "Màu của bầu trời thường là?",
+    "options": ["Xanh", "Đỏ", "Vàng", "Đen", "Next"],
+    "correct": "Xanh"
+  }
+]
